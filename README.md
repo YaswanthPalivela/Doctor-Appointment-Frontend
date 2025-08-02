@@ -2,7 +2,30 @@
 
 <p align="center"><img src="https://socialify.git.ci/YaswanthPalivela/Doctor-Appointment-Frontend/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-<p id="description">a simple doctor appointment application for patients</p>
+<p id="description">The frontend is a responsive web application built using React with TypeScript and styled using Tailwind CSS. Its primary goal is to provide users with an intuitive interface to view available doctors and book appointments easily.
+
+🔑 Key Features:
+Landing Page with:
+
+List of doctors including name, specialization, profile image, and availability status.
+
+Search functionality to filter doctors by name or specialization.
+
+Doctor Profile Page:
+
+Detailed view of a selected doctor with weekly schedule.
+
+"Book Appointment" button.
+
+Appointment Booking Form:
+
+Collects patient name, email, preferred date, and time.
+
+Validates inputs and displays a success/failure message.
+
+Navigates back to the home page on successful booking.
+
+Responsive Design for mobile, tablet, and desktop devices.</p>
 
 <h2>🛠️ Installation Steps:</h2>
 
